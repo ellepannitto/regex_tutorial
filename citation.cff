@@ -1,0 +1,10 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pannitto"
+  given-names: "Ludovica"
+  orcid: "https://orcid.org/0000-0002-5760-6447"
+title: "A tutorial on regular expressions"
+version: 1.0
+date-released: 2025-03-31
+url: "https://github.com/ellepannitto/regex_tutorial"

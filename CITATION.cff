@@ -1,10 +1,24 @@
-cff-version: 1.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.2.0
+title: A tutorial on regular expressions
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- family-names: "Pannitto"
-  given-names: "Ludovica"
-  orcid: "https://orcid.org/0000-0002-5760-6447"
-title: "A tutorial on regular expressions"
-version: 1.0
-date-released: 2025-03-31
-url: "https://github.com/ellepannitto/regex_tutorial"
+  - given-names: Ludovica
+    family-names: Pannitto
+    email: ellepannitto@gmail.com
+    affiliation: University of Bologna
+    orcid: 'https://orcid.org/0000-0002-5760-6447'
+identifiers:
+  - type: url
+    value: 'https://github.com/ellepannitto/regex_tutorial'
+abstract: >-
+  A (more or less) complete tutorial on regular expression,
+  with code snippets in python
+keywords:
+  - regex
+  - regexp
+  - regular-expressions
+license: CC-BY-NC-SA-4.0
+date-released: '2025-03-30'
